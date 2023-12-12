@@ -39,8 +39,8 @@ function App() {
           </div>
         </div>
         <div className="mt-10">
-          <h1 className="font-lobster">
-            Selamat Hari Raya Idul Fitri <br /> Mohon Maaf Lahir Dan Batin
+          <h1 className="font-lobster text-5xl">
+            Selamat Hari Raya Idul Fitri <br /> Mohon Maaf Lahir Dan Batin ❤
           </h1>
         </div>
       </div>
